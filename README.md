@@ -7,8 +7,9 @@ This PDF is meant to explain in further detail the projects that I have shown in
 
 [https://jasontang19.weebly.com/](https://jasontang19.weebly.com/) 
 
+![model](/model.jpg)
+![cap](/cap.jpg)
 While I understand that you are tight for time, I believe that the website will give you a clearer understanding of my projects.
 
 Thanks So Much,
-
 Jason Tang
